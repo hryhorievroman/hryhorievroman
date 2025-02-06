@@ -7,7 +7,6 @@ Backend Developer
 I'm java developer with strong knowledge of Spring Framework 
 * 🌍  I'm based in Austin, TX
 * ✉️  You can contact me at [im.roman.hryhoriev@gmail.com](mailto:im.roman.hryhoriev@gmail.com) 
-* 🧠  I'm learning AWS 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
